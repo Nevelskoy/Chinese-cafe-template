@@ -1,2 +1,2 @@
 # Chinese restaurant
-Solution: https://nevelskoy.github.io/Site_test/index.html
+Sample cafe template: https://nevelskoy.github.io/Site_test/index.html
